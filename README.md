@@ -1,6 +1,6 @@
 # sf2040
 
-The sf2040 is a mechanical 76-key keyboard based on the RP2040 microcontroller from Raspberry Pi.
+The sf2040 is a mechanical 76-key keyboard based on the [RP2040](https://datasheets.raspberrypi.com/rp2040/rp2040-datasheet.pdf) microcontroller from Raspberry Pi.
 
 ### Features
  - USB Type-C Port

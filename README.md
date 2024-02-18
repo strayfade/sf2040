@@ -1,5 +1,7 @@
-### About
+# sf2040
+
 The sf2040 is a mechanical 76-key computer keyboard based on the RP2040 microcontroller from Raspberry Pi.
+
 ### Features
  - USB Type-C Port
  - Fully open-source/open-hardware design and firmware files
@@ -34,3 +36,6 @@ Flashing example for this keyboard:
 The RP2040's bootloader can be accessed by holding the **ESC** key while plugging in the keyboard.
 
 > For more information about setting up and working with [QMK](https://docs.qmk.fm/#/) keyboard firmware, read the QMK documentation (https://docs.qmk.fm).
+
+### License
+The sf2040 keyboard design and firmware is released under the GPL3 license. Contributions and pull requests to this repository are always welcome!

@@ -27,11 +27,11 @@ This keyboard runs standard [QMK firmware](https://docs.qmk.fm/#/), configuratio
 
 `Make` example for this keyboard (after setting up your build environment):
 ```sh
-    make strayfade2040:default
+make strayfade2040:default
 ```
 Flashing example for this keyboard:
 ```sh
-    make strayfade2040:default:flash
+make strayfade2040:default:flash
 ```
 The RP2040's bootloader can be accessed by holding the **ESC** key while plugging in the keyboard.
 

@@ -25,15 +25,18 @@ The sf2040 is a mechanical 76-key keyboard based on the [RP2040](https://datashe
 ### Firmware
 This keyboard runs standard [QMK firmware](https://docs.qmk.fm/#/), configuration for which is included in this repository.
 
-`Make` example for this keyboard (after setting up your build environment):
+> The firmware can be downloaded pre-configured for this keyboard [here](/firmware/builds/sf2040.uf2).
+
+The contents of the [firmware](/firmware) folder should be copied into QMK's working keyboard directory (usually `qmk_firmware/keyboards`) before building.
+
+Build with support for VIA enabled:
 ```sh
-make firmware:default
+qmk compile -kb sf2040 -km via
 ```
-Flashing example for this keyboard:
-```sh
-make firmware:default:flash
-```
-The RP2040's bootloader can be accessed by holding the **ESC** key while plugging in the keyboard.
+
+The RP2040's bootloader can be accessed by holding the **ESC** key while plugging in the keyboard. Then, simply drag-and-drop the output `.uf2` firmware into the bootloader folder.
+
+This keyboard has **not** been merged into the [QMK repository](https://github.com/qmk/qmk_firmware/tree/master/keyboards) or [VIA's keyboard repository](https://github.com/the-via/keyboards), so you will need to define a custom board in VIA by navigating to the Settings tab, enabling the Design tab, and clicking "Load Draft Definition". From here, select the [via.json](/firmware/sf2040/via.json) file to configure the keyboard.
 
 > For more information about setting up and working with [QMK](https://docs.qmk.fm/#/) keyboard firmware, read the QMK documentation (https://docs.qmk.fm).
 

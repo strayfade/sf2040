@@ -2,6 +2,10 @@
 
 The sf2040 is a mechanical 76-key keyboard based on the [RP2040](https://datasheets.raspberrypi.com/rp2040/rp2040-datasheet.pdf) microcontroller from Raspberry Pi.
 
+> This project is certified by the OSHWA as open source hardware.
+> 
+> `[OSHW] US002610 | Certified open source hardware | oshwa.org/cert`
+
 ### Features
  - USB Type-C Port
  - Fully open-source/open-hardware design and firmware files

@@ -1,5 +1,9 @@
 # sf2040
 
+[![OSHWA Certification](https://img.shields.io/badge/OSHWA%20Certification-US002610-FF4444?style=flat&labelColor=333333)](https://certification.oshwa.org/us002610.html)
+[![OSHWA Certification](https://img.shields.io/badge/Powered%20by-QMK-FFFFFF?style=flat&labelColor=333333)](https://qmk.fm/)
+
+### About
 The sf2040 is a mechanical 76-key keyboard based on the [RP2040](https://datasheets.raspberrypi.com/rp2040/rp2040-datasheet.pdf) microcontroller from Raspberry Pi.
 
 > This project has been certified by the OSHWA as open source hardware.
@@ -31,7 +35,7 @@ The sf2040 is a mechanical 76-key keyboard based on the [RP2040](https://datashe
 - 0.5mm Foam Switch Dampeners ([Amazon](https://www.amazon.com/gp/product/B0B942VCMV))
 - Krytox 205 Grade 0 Lubricant
 - Switch disassembly tools
-- Case filler (I used off-brand polyester fiber)
+- Case filler (I used polyester fiber)
 
 ### Firmware
 

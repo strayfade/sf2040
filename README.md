@@ -1,7 +1,15 @@
-# sf2040
+![](./images/Top.jpg)
 
-[![OSHWA Certification](https://img.shields.io/badge/OSHWA%20Certification-US002610-FF4444?style=flat&labelColor=333333)](https://certification.oshwa.org/us002610.html)
-[![OSHWA Certification](https://img.shields.io/badge/Powered%20by-QMK-FFFFFF?style=flat&labelColor=333333)](https://qmk.fm/)
+<h1 align="center">sf2040</h1>
+
+<p align="center">
+    <a href="https://certification.oshwa.org/us002610.html">
+        <img src="https://img.shields.io/badge/OSHWA%20Certification-US002610-FF4444?style=flat&labelColor=333333">
+    </a>
+    <a href="https://qmk.fm/">
+        <img src="https://img.shields.io/badge/Powered%20by-QMK-FFFFFF?style=flat&labelColor=333333">
+    </a>
+</p>
 
 ### About
 The sf2040 is a mechanical 76-key keyboard based on the [RP2040](https://datasheets.raspberrypi.com/rp2040/rp2040-datasheet.pdf) microcontroller from Raspberry Pi.
@@ -18,6 +26,14 @@ The sf2040 is a mechanical 76-key keyboard based on the [RP2040](https://datashe
 - Fully open-source/open-hardware design and firmware files
 - **No LED backlight**
 - **No Bluetooth/wireless connectivity**
+
+### Gallery
+
+<img style="width: 100%; height: 300px; object-fit: cover;" src="./images/PCB_Top.jpg">
+<div float="center">
+    <img style="width: 49%; height: 200px; object-fit: cover;" src="./images/PCB_Bottom.jpg">
+    <img style="width: 49%; height: 200px; object-fit: cover;" src="./images/RP2040.jpg">
+</div>
 
 ### Assembly/Mechanical Information
 

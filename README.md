@@ -27,14 +27,6 @@ The sf2040 is a mechanical 76-key keyboard based on the [RP2040](https://datashe
 - **No LED backlight**
 - **No Bluetooth/wireless connectivity**
 
-### Gallery
-
-<div align="center">
-    <img style="height: 300px;" src="./images/PCB_Top.jpg">
-    <img style="height: 200px;" src="./images/PCB_Bottom.jpg">
-    <img style="height: 200px;" src="./images/RP2040.jpg">
-</div>
-
 ### Assembly/Mechanical Information
 
 **Required** parts:
@@ -76,3 +68,12 @@ This keyboard has been merged into the [QMK repository](https://github.com/qmk/q
 ### License
 
 The sf2040 keyboard design and firmware is released under the GPL3 license. Contributions and pull requests to this repository are always welcome!
+
+
+# Gallery
+
+<div align="center">
+    <img style="" src="./images/PCB_Top.jpg">
+    <img style="" src="./images/RP2040.jpg">
+    <img style="" src="./images/PCB_Bottom.jpg">
+</div>

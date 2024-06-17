@@ -29,10 +29,10 @@ The sf2040 is a mechanical 76-key keyboard based on the [RP2040](https://datashe
 
 ### Gallery
 
-<img style="width: 100%; height: 300px; object-fit: cover;" src="./images/PCB_Top.jpg">
-<div float="center">
-    <img style="width: 49%; height: 200px; object-fit: cover;" src="./images/PCB_Bottom.jpg">
-    <img style="width: 49%; height: 200px; object-fit: cover;" src="./images/RP2040.jpg">
+<div align="center">
+    <img style="height: 300px;" src="./images/PCB_Top.jpg">
+    <img style="height: 200px;" src="./images/PCB_Bottom.jpg">
+    <img style="height: 200px;" src="./images/RP2040.jpg">
 </div>
 
 ### Assembly/Mechanical Information

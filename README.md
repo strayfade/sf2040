@@ -12,6 +12,7 @@
 </p>
 
 ### About
+
 The sf2040 is a mechanical 76-key keyboard based on the [RP2040](https://datasheets.raspberrypi.com/rp2040/rp2040-datasheet.pdf) microcontroller from Raspberry Pi.
 
 > This project has been certified by the OSHWA as open source hardware.
@@ -67,8 +68,7 @@ This keyboard has been merged into the [QMK repository](https://github.com/qmk/q
 
 ### License
 
-The sf2040 keyboard design and firmware is released under the GPL3 license. Contributions and pull requests to this repository are always welcome!
-
+The **sf2040** keyboard design and firmware is released under the **GPLv3** license. Contributions and pull requests to this repository are always welcome!
 
 # Gallery
 

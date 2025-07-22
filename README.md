@@ -1,4 +1,4 @@
-![](./images/Top.jpg)
+![](./images/sf20402.webp)
 
 <h1 align="center">sf2040</h1>
 
@@ -73,7 +73,8 @@ The **sf2040** keyboard design and firmware is released under the **GPLv3** lice
 # Gallery
 
 <div align="center">
-    <img style="" src="./images/PCB_Top.jpg">
-    <img style="" src="./images/RP2040.jpg">
-    <img style="" src="./images/PCB_Bottom.jpg">
+    <img style="" src="./images/sf20401.webp">
+    <img style="" src="./images/sf20403.webp">
+    <img style="" src="./images/sf20404.webp">
+    <img style="" src="./images/sf20405.webp">
 </div>
